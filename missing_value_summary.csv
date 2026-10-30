@@ -1,0 +1,7 @@
+Column,Data Type,Total Records,Missing Count,Missing Percentage,Treatment Required
+student_id,int64,12,0,0.0,False
+name,object,12,0,0.0,False
+department,object,12,1,8.33,True
+age,float64,12,1,8.33,True
+marks,float64,12,2,16.67,True
+attendance,float64,12,2,16.67,True
