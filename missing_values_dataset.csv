@@ -1,0 +1,13 @@
+student_id,name,department,age,marks,attendance
+1001,Aarav,Computer Science,20.0,86.0,92.0
+1002,Diya,Electronics,21.0,,88.0
+1003,Kabir,Mechanical,,74.0,79.0
+1004,Ananya,Computer Science,22.0,95.0,
+1005,Ishaan,Civil,21.0,68.0,72.0
+1006,Meera,Electronics,20.0,88.0,90.0
+1007,Rohan,Mechanical,22.0,,85.0
+1008,Sara,Computer Science,21.0,93.0,94.0
+1009,Vivaan,Civil,20.0,72.0,
+1010,Aditi,Electronics,22.0,84.0,86.0
+1011,Arjun,Mechanical,21.0,77.0,75.0
+1012,Nisha,,20.0,90.0,91.0
